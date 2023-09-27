@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 82dde62984f3e5845b6ee62a9a5e8c87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BodyPrefab: {instanceID: 0}
+  - fruitPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
